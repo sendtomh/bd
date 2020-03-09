@@ -330,6 +330,13 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 #EXTINF:-1,TEN Sports
 http://43.231.22.238:8081/temp1/ctg_tensports/playlist.m3u8
+
+#EXTINF:0 group-title="USA"tvg-logo="http://logo.ddnb.tn/logochanel/3515.png",WilloW HD
+http://skdn.redi-vo.com/iptv/ch3515?code=103131497823984&key=40035
+
+#EXTINF:-1,PTV Sports
+http://51.158.144.124:8090/CR/1/index.m3u8
+
 #EXTINF:-1,PTV Sports (1)
 http://43.231.22.238:8081/temp1/ctg_ptvsports/playlist.m3u8
 #EXTINF:-1,PTV Sports (2)
