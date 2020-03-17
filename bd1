@@ -1,21 +1,21 @@
 #EXTINF:-1,Ananda TV
 http://103.3.226.74:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1,Asian
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/asian/chunks.m3u8
 #EXTINF:-1,ATN Bangla
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/atnbangla/playlist.m3u8
 #EXTINF:-1,ATN News
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/atnnews/playlist.m3u8
 #EXTINF:-1,Bangla TV
 http://telelivetv.webredirect.org:8081/globeworld2020/banglatv/playlist.m3u8
 #EXTINF:-1,Bangla Vision
-http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/banglavision/playlist.m3u8
 #EXTINF:-1,Bijoy TV
 http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1,Boishakhi TV
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/boishakhi/playlist.m3u8
 #EXTINF:-1,BTV
-http://tempt.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/playlist.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/btv/chunks.m3u8
 #EXTINF:-1,BTV World
 http://42.0.6.130/hls/-bSsQP2bB9EAopwEDkllbg/1578199997/btv_world_hi/index.m3u8
 #EXTINF:-1,Shongshad TV
@@ -23,13 +23,13 @@ http://jotv.bdtype.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1,Channel 9
 http://103.58.73.26/streams/102/index.m3u8
 #EXTINF:-1,Channel 24
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/channel24/playlist.m3u8
 #EXTINF:-1,Channel Eye
-http://tempcityon.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-1,Channel S (UK)
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/chunks.m3u8
-#EXTINF:-1,DBC News
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/channeli/playlist.m3u8
+#EXTINF:-1,Channel S HD (UK)
+http://cdn01.eiego.net:8081/playout/channels/chunks.m3u8
+#EXTINF:-1,DBC News HD
+http://telelivetv.webredirect.org:8081/globeworld2020/dbc/playlist.m3u8
 #EXTINF:-1,Deepto TV
 https://itpolly.iptv.digijadoo.net/live/deepto_tv/chunks.m3u8
 #EXTINF:-1,Desh TV
@@ -44,6 +44,8 @@ https://itpolly.iptv.digijadoo.net/live/nickelodeon/chunks.m3u8
 https://streamer-1.toffeelive.com/live/ekattor_hd_720/index.m3u8
 #EXTINF:-1,Ekushey TV
 https://itpolly.iptv.digijadoo.net/live/ekushey_tv/chunks.m3u8
+#EXTINF:-1,Ekushey TV (2)
+http://telelivetv.webredirect.org:8081/globeworld2020/ekushytv/chunks.m3u8
 #EXTINF:-1,Gazi TV (1)
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
 #EXTINF:-1,Gazi TV (2)
@@ -51,15 +53,17 @@ https://itpolly.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8
 #EXTINF:-1,BD IP1
 http://114.31.17.2/channel1/myStream_360p/playlist.m3u8
 #EXTINF:-1,Independent TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/independent/playlist.m3u8
 #EXTINF:-1,Jamuna TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+https://itpolly.iptv.digijadoo.net/live/jamuna_tv/chunks.m3u8
 #EXTINF:-1,Maasranga TV
 https://itpolly.iptv.digijadoo.net/live/maasranga/chunks.m3u8
 #EXTINF:-1,Mohona TV
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/mohona/playlist.m3u8
 #EXTINF:-1,My TV
 http://42.0.6.130/hls/9wtIyoyl1vgtKK5pmIDuEA/1564901969/my_tv_hi/index.m3u8
+#EXTINF:-1,Nandan
+http://nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1,NTV
 https://itpolly.iptv.digijadoo.net/live/ntv/chunks.m3u8
 #EXTINF:-1,NTV (UK)
@@ -67,13 +71,13 @@ http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 #EXTINF:-1,Nagorik TV
 http://42.0.6.130/hls/P2n6mKElOtuUx228uH9PeQ/1576664140/nagorik_tv_hi/index.m3u8
 #EXTINF:-1,News 24
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/news24/playlist.m3u8
 #EXTINF:-1,RTV
 https://itpolly.iptv.digijadoo.net/live/rtv/chunks.m3u8
 #EXTINF:-1,SA TV
 http://42.0.6.130/hls/w6jIZwBfq-KOpg9GNUoQmw/1578199928/sa_tv_hi/index.m3u8
 #EXTINF:-1,Shomoy News
-http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/somoy/chunks.m3u8
 #EXTINF:-1,Discovery
 http://streamidvo.multitvsolution.in/DiscoveryHindi-a/playlist.m3u8
 #EXTINF:-1,National Geographic 
@@ -173,7 +177,7 @@ http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1,My Cinema
 http://tempe.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1,Movie Bangla TV
-http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+http://telelivetv.webredirect.org:8081/globeworld2020/moviebangla/playlist.m3u8
 #EXTINF:-1,Millennium TV
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 #EXTINF:-1,Magic Bangla TV
@@ -201,7 +205,7 @@ http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1,TV One UK
 http://23.106.120.42:1934/c5V6ydmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tvoneuksni.stream/live-orgin/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1,QTV Bangla
-http://tempmix.jagobd.com:1934/c5V6mmMyX3RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/qtv.stream/chunks.m3u8
+http://43.231.22.238:8081/QTV/qtv/chunks.m3u8
 #EXTINF:-1,Peace TV Bangla
 http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
 #EXTINF:-1,ATN Islam
